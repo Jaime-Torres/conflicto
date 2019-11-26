@@ -17,4 +17,4 @@ Many new syntactic features are included. To natively include and handle multime
 The APIs and Document Object Model (DOM) are now fundamental parts of the HTML5 specification and HTML5 also better defines the processing for any invalid documents.
 
 
-!(img/1280px-HTML5_APIs_and_related_technologies_taxonomy_and_status.png)
+![Estructura HTML](https://raw.githubusercontent.com/Jaime-Torres/conflicto/master/1280px-HTML5_APIs_and_related_technologies_taxonomy_and_status.png)
