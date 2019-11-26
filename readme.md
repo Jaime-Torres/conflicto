@@ -16,3 +16,4 @@ Many new syntactic features are included. To natively include and handle multime
 
 The APIs and Document Object Model (DOM) are now fundamental parts of the HTML5 specification and HTML5 also better defines the processing for any invalid documents.
 
+
